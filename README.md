@@ -3,12 +3,13 @@
 </div>
 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-<!-- ![giphy](https://user-images.githubusercontent.com/72572188/199665285-a83b459e-2ab0-4d01-98bb-8cdc10eb3207.gif)
- -->
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sivashankaran-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/sivashankaran-kuppusaamy-1b09b5223)
 
 
 <div>
@@ -33,13 +34,6 @@
   <img src="https://user-images.githubusercontent.com/72572188/199665285-a83b459e-2ab0-4d01-98bb-8cdc10eb3207.gif" width="600" height="500"/>
 </div>
 
-
-
-- 👋 Hi, I’m @SivashankaranK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 SivashankaranK/SivashankaranK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
