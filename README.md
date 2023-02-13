@@ -1,34 +1,24 @@
+# 💫 About Me:
+I'm a software developer working on React technology.<br>I'm looking forward to working in Back-end technologies too.<br>Also Interested in working in Solid JS. <br>I'm currently learning Next JS, and Node Js.
 
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/72572188/200118718-950795ed-8735-44be-9644-227f5a0b7bda.png" width="1000"/>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivvv#8572) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shivvv__07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivashankaran-kuppusaamy-1b09b5223) 
 
- - :telescope: I’m working as a Software Developer and contributing to the front end of building web applications.
- 
- - :seedling: Exploring new Web Development technologies and Implementing them.
- 
- - :zap: In my free time, I read tech articles and books.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SivashankaranK&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SivashankaranK&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivashankaranK&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SivashankaranK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Intrested In
-<div>
-   <img src="https://user-images.githubusercontent.com/72572188/200116641-2f6b61a5-c826-4cc5-87c0-66bf6c99242a.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/72572188/200116659-e744722c-b312-4c17-908f-ec2cd689a91e.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/72572188/200116664-5db586f0-a738-481c-957e-d5a77d155b59.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/72572188/200116795-2962a10d-2a19-4fb6-bab5-93ec116cf2e5.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/72572188/200116671-c4d8bff6-847c-4aaa-ae14-d1dfe5187330.svg" title="SolidJS" alt="SolidJS" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/72572188/200116674-96d93410-3c7b-417a-85be-c1caf4c37437.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;  
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+---
+[![](https://visitcount.itsvg.in/api?id=SivashankaranK&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/72572188/199665285-a83b459e-2ab0-4d01-98bb-8cdc10eb3207.gif" width="600" height="500"/>
-</div>
- -->
-
-<!---
-SivashankaranK/SivashankaranK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
