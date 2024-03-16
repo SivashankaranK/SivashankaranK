@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a software developer working on React technology.<br>I'm looking forward to working in Back-end technologies too.<br>Also Interested in working in Solid JS and  Next JS. <br>I'm currently learning Node Js.
+I'm a software developer working on both Front-end and Back-end
+I have a experiences in Micro-services
+
 
 
 ## 🌐 Socials:
